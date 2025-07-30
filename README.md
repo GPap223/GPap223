@@ -1,34 +1,76 @@
-## 👋 Hi there! I'm George
-
-🎓 I'm a Computer Science & Telecommunications undergraduate student  
-💻 I'm interested in **software development** and **systems programming**  
-📌 I mainly use **Java** and **C**
-
----
-
-### 🧠 What I'm up to
-
-🚀 I enjoy working on new projects, experimenting with ideas, and learning new things  
-📂 I use GitHub to share and showcase my work  
-🤝 I'm open to **collaborations**, **feedback**, **forks**, and **stars** — feel free to connect!
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+George+(GPap223)!;CS+Student+%7C+C+%26+Java+Developer;MATLAB+%7C+Linux+%7C+Problem+Solver;Always+learning%2C+always+building..." alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧰 Tech Stack
+<h1 align="center">👨‍💻 George Pap | GPap223</h1>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![GPap223's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPap223&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GPap223&layout=compact&theme=tokyonight)
+<p align="center">
+  <i>Computer Science & Telecommunications undergrad.<br>Passionate about low-level programming, algorithms, and making things that just work.</i>
+</p>
 
 ---
 
-🛠️ Always building, always learning!
+### 🧠 A Bit About Me
+
+- 🎓 Currently studying Computer Science & Telecommunications  
+- 💻 I have hands-on experience in **software development**, **system-level programming**, and **numerical computing**  
+- 🧠 Solid understanding of **Probability**, **Statistics**, **Discrete Mathematics**, and **Digital Logic Design**  
+- 🔍 I enjoy digging into the fundamentals — how memory works, how data moves, how systems behave  
+- 📌 Focused on writing clean, efficient code with purpose  
+- 🛠️ Projects mainly in **C**, **Java**, and **MATLAB** 
+
+---
+
+
+### 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,matlab,linux,bash,vim,git,github" alt="Tech Stack" />
+</p>
+
+---
+
+### 🧭 Current Focus
+
+- 🧩 Data structures, algorithms, systems programming  
+- ⚙️ Personal projects & scripts to automate life  
+- 🧰 Exploring **Linux**, **Vim**, and efficient dev setups  
+- 📚 Learning something new every week — from pointers to processes
+
+---
+
+### 📂 Projects & Code
+
+🛠 I use GitHub to:
+- Upload personal projects & university work  
+- Share tools, small utilities, and scripts  
+- Collaborate and get feedback  
+- Track my growth as a developer
+
+📍 Check out my pinned repos below 👇
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/GPap223">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Student%20Mode%20Activated-black?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vim%20Enjoyer-4eaa25?style=for-the-badge&logo=vim&logoColor=white" />
+</p>
+
+---
+
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
 
