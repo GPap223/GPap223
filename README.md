@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+George+(GPap223)!;CS+Student+%7C+C+%26+Java+Developer;MATLAB+%7C+Linux+%7C+Problem+Solver;Always+learning%2C+always+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Giorgos!;CS+Student+%7C+C+%26+Java+Developer;MATLAB+%7C+Linux+%7C+Problem+Solver;Always+learning%2C+always+building..." alt="Typing SVG" />
 </p>
 
 ---
 
-<h1 align="center">👨‍💻 George Pap | GPap223</h1>
+<h1 align="center">👨‍💻 Giorgos Papatsimpas </h1>
 
 <p align="center">
   <i>Computer Science & Telecommunications undergrad.<br>Passionate about low-level programming, algorithms, and making things that just work.</i>
