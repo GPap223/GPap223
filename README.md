@@ -13,19 +13,19 @@
 
 ---
 
-### 🧠 A Bit About Me
+###  A Bit About Me
 
-- 🎓 Currently studying Computer Science & Telecommunications  
-- 💻 I have hands-on experience in **software development**, **system-level programming**, and **numerical computing**  
-- 🧠 Solid understanding of **Probability**, **Statistics**, **Discrete Mathematics**, and **Digital Logic Design**  
-- 🔍 I enjoy digging into the fundamentals — how memory works, how data moves, how systems behave  
-- 📌 Focused on writing clean, efficient code with purpose  
-- 🛠️ Projects mainly in **C**, **Java**, and **MATLAB** 
+-  Currently studying Computer Science & Telecommunications  
+-  I have hands-on experience in **software development**, **system-level programming**, and **numerical computing**  
+-  Solid understanding of **Probability**, **Statistics**, **Discrete Mathematics**, and **Digital Logic Design**  
+-  I enjoy digging into the fundamentals — how memory works, how data moves, how systems behave  
+-  Focused on writing clean, efficient code with purpose  
+-  Projects mainly in **C**, **Java**, and **MATLAB** 
 
 ---
 
 
-### 🛠️ Toolbox
+###  Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,matlab,linux,bash,vim,git,github" alt="Tech Stack" />
@@ -33,24 +33,24 @@
 
 ---
 
-### 🧭 Current Focus
+###  Current Focus
 
-- 🧩 Data structures, algorithms, systems programming  
-- ⚙️ Personal projects & scripts to automate life  
-- 🧰 Exploring **Linux**, **Vim**, and efficient dev setups  
-- 📚 Learning something new every week — from pointers to processes
+-  Data structures, algorithms, systems programming  
+-  Personal projects & scripts to automate life  
+-  Exploring **Linux**, **Vim**, and efficient dev setups  
+-  Learning something new every week — from pointers to processes
 
 ---
 
-### 📂 Projects & Code
+###  Projects & Code
 
-🛠 I use GitHub to:
+ I use GitHub to:
 - Upload personal projects & university work  
 - Share tools, small utilities, and scripts  
 - Collaborate and get feedback  
 - Track my growth as a developer
 
-📍 Check out my pinned repos below 👇
+ Check out my pinned repos below 👇
 
 ---
 
@@ -59,6 +59,9 @@
 <p align="center">
   <a href="https://github.com/GPap223">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/giorgos-papatsimpas-203212377">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
