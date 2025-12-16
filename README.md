@@ -41,6 +41,12 @@
 -  Learning something new every week — from pointers to processes
 
 ---
+### 🛡️ Cybersecurity Focus
+- **Threat Intelligence:** Deep dive into modern Threat Landscapes, Bots, and Malware analysis.
+- **Infrastructure Security:** Exploring how systems are planned and secured at a governmental scale.
+- **Secure Coding:** Leveraging C/Java knowledge to write resilient and secure software.
+
+---
 
 ###  Projects & Code
 
